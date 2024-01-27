@@ -423,8 +423,3 @@ ylabel('\xi = y/\delta')%,'Interpreter','latex','FontSize',16)
 legend('U','U''','U''''','location','best')
 
 %CS
-
-
-
-cs_orr_sommerfeld_stability.m
-Displaying cs_orr_sommerfeld_stability.m.
